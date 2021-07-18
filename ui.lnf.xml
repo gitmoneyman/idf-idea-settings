@@ -1,5 +1,9 @@
 <application>
   <component name="UISettings">
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
   </component>
 </application>

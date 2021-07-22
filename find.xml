@@ -11,7 +11,8 @@
     <mask>*.gradle</mask>
     <mask>*Test.java</mask>
     <mask>*.sql</mask>
-    <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>*Listener.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>

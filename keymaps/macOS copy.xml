@@ -1,6 +1,0 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
-  <action id="NextWindow" />
-</keymap>

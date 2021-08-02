@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="D:/work/projects" />
+        <option value="$USER_HOME$/hdd/git/idf-onboarding" />
       </list>
     </option>
   </component>

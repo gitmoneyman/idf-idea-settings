@@ -5,7 +5,6 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -18,5 +17,6 @@
     <mask>*.graphqls</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*Connector.kt</mask>
   </component>
 </application>

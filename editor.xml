@@ -9,10 +9,10 @@
     <option name="languageBreadcrumbsMap">
       <map>
         <entry key="Groovy" value="true" />
+        <entry key="kotlin" value="true" />
       </map>
     </option>
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

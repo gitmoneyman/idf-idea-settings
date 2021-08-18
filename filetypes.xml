@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping ext="schema" type="Groovy" />
       <mapping ext="flow" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />

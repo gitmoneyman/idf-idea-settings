@@ -21,4 +21,7 @@
       </list>
     </option>
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/opt/project/mortgage" />
+  </component>
 </application>

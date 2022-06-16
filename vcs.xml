@@ -30,7 +30,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads/Telegram Desktop" />
+    <option name="PATCH_STORAGE_LOCATION" value="C:/opt/project/patch" />
   </component>
   <component name="VcsEditorTab.Settings">
     <option name="openInNewWindow" value="true" />

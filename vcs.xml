@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/DotSpy/axon-quick-start.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gitmoneyman/bd-ddls.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\opt\project" />

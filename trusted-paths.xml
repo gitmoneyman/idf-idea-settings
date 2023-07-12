@@ -1,9 +1,0 @@
-<application>
-  <component name="Trusted.Paths.Settings">
-    <option name="TRUSTED_PATHS">
-      <list>
-        <option value="C:/opt/project" />
-      </list>
-    </option>
-  </component>
-</application>
